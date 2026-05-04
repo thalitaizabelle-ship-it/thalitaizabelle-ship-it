@@ -1,16 +1,22 @@
-## Hi there 👋
+# Thalita Izabelle 
+🎓 2° semestre - Análise e Desenvolvimento de Sistemas @ UNINASSAU  
 
-<!--
-**thalitaizabelle-ship-it/thalitaizabelle-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal!
+Meu nome é **Thalita Izabelle**, tenho 21 anos e sou estudante de ADS na UNINASSAU, atualmente estou participando do Bootcamp do **Santander Open Academy** em **Análise de dados e IA**  
+- Meu foco é na área de Desenvolvimento Backend e Gerenciamento de Banco de Dados.
+- Estou à procura de um estágio em Desenvolvimento Backend em Java
 
-Here are some ideas to get you started:
+## 🧠 Technologies & Languages
+<div>
+  <a href="https://skillicons.dev"
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,java,spring,postgres,sql,linux,git&theme=light" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Estatísticas do meu Github](https://github-readme-stats.vercel.app/api?username=thalitaizabelle-ship-it)](https://github.com/thalitaizabelle-ship-it/github-readme-stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaizabelle-ship-it&layout=compact)
+
+## Entre em contato comigo!!
+
+- 📧 thalitaizabelle@gmail.com
+- 💼 [Linkedin](htttps//www.linkedin.com/in/thalitaizabellecunha)
