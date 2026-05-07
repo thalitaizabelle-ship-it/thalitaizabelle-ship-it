@@ -7,7 +7,7 @@
 ---
 
 ### 🌸 Sobre Mim
-Meu nome é **Thalita Izabelle**, tenho 21 anos e sou apaixonada por tecnologia. Atualmente, estou focada em expandir meus horizontes no **Bootcamp do Santander Open Academy** (Análise de Dados e IA).
+Meu nome é **Thalita Izabelle**, tenho 21 anos e sou apaixonada por tecnologia. Atualmente, estou focada em expandir meus horizontes no **Bootcamp do Bradesco** (GenAI & Dados).
 
 - 🎯 **Foco:** Desenvolvimento Backend e Gerenciamento de Banco de Dados.
 - 🚀 **Objetivo:** Em busca da primeira oportunidade como Estagiária de Backend em Java.
